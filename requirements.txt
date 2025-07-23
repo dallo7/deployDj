@@ -35,3 +35,15 @@ uri-template==1.3.0
 urllib3==2.5.0
 vine==5.1.0
 wcwidth==0.2.13
+prompt_toolkit==3.0.51
+protobuf==5.29.5
+psutil==7.0.0
+psycopg2==2.9.10
+pure_eval==0.2.3
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+pycparser==2.22
+pydantic==2.11.7
+pydantic_core==2.33.2
+PyGithub==2.6.1
+Pygments==2.19.2
